@@ -6,3 +6,4 @@ beautifulsoup4
 colorama
 urllib3
 certifi
+psutil
